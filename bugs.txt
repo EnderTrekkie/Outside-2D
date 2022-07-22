@@ -1,0 +1,7 @@
+MAJOR BUGS
+-----------
+
+minor bugs
+----------
+   player walks on water, should swim
+   analyze mouse position; figure out if factoring it down is a good solution
