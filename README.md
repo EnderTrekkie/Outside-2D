@@ -3,6 +3,10 @@
 
  Outside is an open-world 2d survival game where you are a dinosaur surviving by defeating other dinos. 
 
+### Showcase Video
+
+https://youtu.be/SC2bmszsuN4
+
 ## Functionality
 
 Beating a foe also replenishes your hunger bar, which gets slowly converted into Health and Stamina. pressing R makes this conversion faster, but less efficient.
